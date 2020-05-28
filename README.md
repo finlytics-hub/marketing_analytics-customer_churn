@@ -1,2 +1,2 @@
 # customer-churn
-Customer Churn Models
+Customer Churn models using both binary classification and survival analysis
